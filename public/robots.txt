@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cpr-now-f3339f56.zappy5.app/sitemap.xml

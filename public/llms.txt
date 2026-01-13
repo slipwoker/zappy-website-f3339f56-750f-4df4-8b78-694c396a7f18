@@ -1,0 +1,69 @@
+# CPR Now — Generative Engine Optimization Map
+
+> A Medical training and emergency response business.
+
+---
+
+## Pages
+
+### קורסים
+https://cpr-now-f3339f56.zappy5.app/קורסים
+קורסים פרונטליים - קורס עזרה ראשונה רעננה בהיקף של 4 או 8 שעות. קורס מע״ר מקצועי בהיקף של 28/30 או 44 שעות. ידע מציל חיים שכל אחד צריך להכיר. סדנת עזרה ראשונה לתינוקות וילדים.
+
+### סיכום הדרכה
+https://cpr-now-f3339f56.zappy5.app/סיכום-הדרכה
+First aid and CPR course refresher covering emergency action chain, safety protocols, and continuous resuscitation techniques. Essential training materials for life-saving procedures.
+
+### מהשטח
+https://cpr-now-f3339f56.zappy5.app/מהשטח
+Field photos and testimonials from קודנט בניית אתרים showcasing real client experiences, project results, and customer feedback from the field
+
+### חנות
+https://cpr-now-f3339f56.zappy5.app/חנות
+First aid course for infants and children - Learn CPR, choking treatment, fever management, and home safety prevention. Professional training for parents and grandparents by certified instructors.
+
+### Our Services
+https://cpr-now-f3339f56.zappy5.app/our-services
+Professional first aid courses and training for sports instructors, tour guides, shooting instructors, and Pilates instructors. Expert trainers providing comprehensive life-saving skills and emergency response training.
+
+### Our Servicesfe96f3c1
+https://cpr-now-f3339f56.zappy5.app/our-servicesfe96f3c1
+Emergency preparedness first aid course for shooting range owners and firearms license holders. Professional training for crisis situations including trauma care, CPR, and tactical casualty care.
+
+### צור קשר
+https://cpr-now-f3339f56.zappy5.app/contact
+Get in touch with קודנט בניית אתרים. Contact us for web development services, courses, and professional website solutions. Fill out our contact form or reach us directly via phone, email, or visit our office.
+
+## Legal & Policy
+
+### Privacy Policy
+https://cpr-now-f3339f56.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://cpr-now-f3339f56.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://cpr-now-f3339f56.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About CPR Now
+CPR Now is a business in the Medical training and emergency response industry.
+
+## Target Audience
+General audience
+
+## Industry
+Medical training and emergency response
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://cpr-now-f3339f56.zappy5.app/sitemap.xml
+- **Robots.txt**: https://cpr-now-f3339f56.zappy5.app/robots.txt
